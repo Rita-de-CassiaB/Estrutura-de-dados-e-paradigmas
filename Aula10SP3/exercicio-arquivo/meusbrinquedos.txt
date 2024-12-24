@@ -1,0 +1,4 @@
+00BRINQUED18-11-2024 08:36:1501
+0200000001salvando a cidade                                 050500,50plastico  50pratica              NumPecas: 0050 Tema: herois              
+0200000002princesa                                          020250,50plastico  10pratica              Altura: 50,00 TipoCabelo: cacheado  
+0100002
